@@ -1,0 +1,37 @@
+Data Computing – II 
+(Tensorflow and NLP)
+L-T-P-S: 0-0-0-4
+List of Topics:
+CO-1: Tensorflow 2.0. Datasets: Public and Tensorflow built in. Using TFDS with keras. Data Augmentation and custom splits. Exploring CNN models for visual classification applications. Standard CNN Architectures on ImageNet. Data Visualization.
+
+CO-2: Natural Language Processing: Encoding Language, Tokenization, turning sentences into sequences, removing stop words, reading text. Time series data representations. Basics of Recurrence, creating text classification with RNNs and Stacked LSTMs. Multi head Attention for text classification using Transformers.  
+
+CO-3: Making sentiment programmable with Embeddings. Meaning for word embeddings, Embeddings in Tensorflow, building sarcasm detector, understanding overfitting, sentence classifications using trained models, visualization of embeddings.     
+
+CO-4: Generating ML models for Prediction:  Generating windowed datasets, evaluating results, hyperparameter tuning, Using RCNNs for time series modelling. Applications: NASA weather dataset, The Blog Authorship Corpus, Amazon Product Dataset, Multi-Domain Sentiment Dataset and Stanford Question Answering Dataset (SQuAD).
+
+List of Minor Projects: 
+1. Design a text generator in Tensorflow.
+2. Implement CNN – LSTM hybrid model.
+3. Implement RCNN model.
+4. Design text corpus for Telegu language.
+5. Design Telugu language training dataset.
+6. Implement Transformers using BERT API.
+7. Implement Tableau Examples in python.
+8. Build a tensorflow.js model for Image classification.
+9. Build a model to use Tensorflow on android system.
+10. Develop a model for linking Tensorflow with ios.
+
+List of Major Projects:
+1. Sentiment analysis for marketing.
+2. Fake news classification.
+3. Language identification.
+4. Similar question grouping in poll q&a’s.
+5. Text summarization on web pages.
+6. Integrate text AI applications to web pages.
+7. Check document similarity.
+8. Relate movie comments and IMDB scores.
+9. Text generation bots.
+10. Speech to text converter for Telugu language.
+11. Text prediction as subtitles in movies.
+
